@@ -1,4 +1,4 @@
-package CS211_Project1;
+package Project1;
 
 import java.util.*;
 
