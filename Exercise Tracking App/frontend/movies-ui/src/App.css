@@ -1,0 +1,255 @@
+/*  ===== MOBILE styles (reside at the top and are inherited by all devices) ===== */
+/*  ===== See tablet, desktop, and print @media queries at the bottom. */
+
+
+/*   ----- Imports  -----  */
+          /* Add fonts from the app's server 
+@font-face {                
+  font-family: 'FontName';
+  src: url('FontName.woff2') format('woff2');
+} 
+          */                           
+
+          /* ...or hosted services like Google Fonts 
+@import url(//fonts.googleapis.com/css?family=Font+Name);
+          */
+
+          /*@import '../node_modules/modern-normalize/modern-normalize.css';*/
+
+          /* npm install modern-normalize 
+            Resets elements for browser consistency.  
+            http://nicolasgallagher.com/about-normalize-css/ 
+          */
+
+          /* Component-specific stylesheets, if any 
+@import "component1.css";   
+          */
+
+/*   ----- Variables  -----  */
+:root {
+  --custom-color-name:;
+  --custom-embellishment-name:;
+}
+
+/*  ----- Viewport ----- elements inherited by all remaining elements ----- */
+body {       /* Can alternatively define in html {} or :root {} */
+  color:blue;
+  background-color:lightgray;
+  font-family:sans-serif;
+  font: italic 1.0em "fira sans", serif;
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+  padding:2px;
+}
+
+/* ----- Anchors ----- Text links */
+a {}
+a:link {}
+a:hover {}
+a:active {}
+a:visited {}
+
+/*  ----- Navigation ----- Override text links for navigation only.  */
+nav {
+   text-align: center;
+   margin:1px;
+   
+   
+}
+nav a {
+    background-color:lightblue;
+    color:darkslateblue;
+    border:grey;
+    border-radius: 10px 10px 0 0;
+    font-size:1.1em;
+    font-weight:bold;
+    margin-right:20px;
+    text-decoration:underline; 
+    vertical-align:-10px;
+}
+nav a:hover {
+    background-color:lightseagreen;
+    color:white;
+}
+
+/*  ----- Page layout blocks -----  */
+header, footer {
+    color:blue;
+    background-color:lightblue;
+    border:2px outset;
+    font-size:medium;
+    font-weight:bold;
+    margin:1%;
+    padding:1%;
+}
+main {
+  background-color:lightsteelblue;
+  color:black;
+  border:1px;
+  padding:1%;
+  opacity:0.75;
+  font-size:1em;
+  font-weight:bolder;
+}
+section {}
+  article {}
+    #topic1 {}
+    #topic2 {}
+    #gallery1 {}
+    #gallery2 {}
+div {}
+aside {}
+
+
+/*  -----  Typography  ----- */
+p {}
+br {}
+ol, ul, dl {}
+li {}
+dt {}
+dd {}
+
+h1, h2, h3, h4, h5, h6 {} /* Define consistant font family.*/
+h1 {}
+h2 {}
+h3 {}
+h4 {}
+h5 {}
+h6 {}
+
+abbr {}
+acronym {}
+address {}
+blockquote {}
+  q {}
+  cite {}
+em {}
+hr {}
+mark {}
+s {}
+span {}
+strong {}
+sub {}
+sup {}
+time {}
+
+/*  ----- Coding or instructional typography ----- */
+pre {}
+code {}
+kbd {}
+samp {}
+var {}
+del {} 
+ins {}
+
+/*  ----- Table ----- */
+table {
+  border-collapse: collapse;
+  margin-right:auto;
+  margin-left:auto;
+  padding:1%;
+  
+}
+caption {}
+thead {}
+tbody {}
+tfoot {}
+tr {
+  border:10px;
+  padding: 2px;
+}
+  tr:nth-child(even) {
+    background-color:lightblue;
+  }
+th {
+  border:1px solid;
+  padding: 2px;;
+}
+td {
+  border:1px solid;
+  padding: 2px;;
+}
+  td:nth-child(1) {}
+colgroup {}
+data {}
+datalist {}
+
+
+/*  ----- Form ----- */
+form {
+    text-align: left;
+}
+fieldset {}
+  legend {}
+label {}
+  button {
+    background-color:#0066A2;
+    margin: auto;
+    font-family:sans-serif;
+    font: italic 1.0em "fira sans", serif;
+    padding:1.0%;
+    text-align: center;
+    font-size: 1.0em;
+  }
+  input {
+    font-family:sans-serif;
+    font: italic 1.0em "fira sans", serif;
+    padding: 1.0%;;
+    margin: auto;
+    font: italic 1.0em "fira sans", serif;
+    font-size: 1.0em;
+  }
+  output {}
+  meter {}
+  progress {}
+  select {}
+    optgroup {}
+    option {}
+  textarea {}
+
+/* ----- Media ----- */
+figure {}
+  figcaption {}
+img {}
+svg {}
+picture {}
+  source {}
+iframe {}
+video {}
+audio {}
+embed {}
+object {}
+
+
+/*  ----- Classes for alignment, positioning, widths, grids, embellishments, and animation -----  */
+.floatright {}
+.floatleft {}
+.center-middle {}
+
+.ten {}
+.twenty {}
+.thirty {}
+.forty {}
+.fifty {}
+.sixty {}
+.seventy {}
+.eighty {}
+
+.radius {}
+.circle {}
+.boxshadow {}
+.tshadow {} 
+.gradient {}
+.shape {}
+
+@keyframes App-logo {}
+
+/*   ===== TABLET  media query overrides mobile styles ===== */
+@media all and (min-width: 600px) {}
+
+/*   ===== DESKTOP  media query overrides mobile and tablet styles ===== */
+@media all and (min-width: 1080px) {}
+
+/*   ===== PRINT  media query overrides previous styles =====  */
+@media print {}
