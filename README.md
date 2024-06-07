@@ -15,22 +15,27 @@ I'm open to new opportunities and project inquiries. Feel free to connect with m
 ## Project Experience
 
 ### Treasure Hunt ([Link to Repo](https://github.com/voyagerfan/Treasure-Hunt.git))
+![](./Icons/treasure.png)
 
 *This is a multipage geocaching application intended for use in Android mobile devices. The program is written in Kotlin using Android Studio and Jetpack Compose. A user is provided clues to locations and the ability to check if they have arrived at the location.*
 
-[![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
+
 
 ### Boat and Load Tracker ([Link to Repo](https://github.com/voyagerfan/Boat-and-Load-Tracker.git))
 
+![](./Icons/cargoboat.png)
+
 *This Cloud API allows an authenticated user to perform CRUD operations (Create, Read, Update, Delete) on owners, boats and loads with Google Cloud Datastore. Authetication is implemented using Auth0. API documentation is included for clarity.*
 
-[![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
+
 
 ### Sunshine Medical ([Link to Repo](https://github.com/voyagerfan/Sunshine-Medical.git))
 
+
+![](./Icons/medical-robot.png)
+
 *Sunshine Medical is a Flask application that integrates mutliple web pages with SQL querries to perform CRUD operations on a database. The application allows a clinician to enter patient data and transfer patients to different departments for treatment.*
 
-[![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
 
 ### Hashmap Implementation ([Link to Repo](https://github.com/voyagerfan/Hashmap-Implementation.git))
 
@@ -61,3 +66,8 @@ I'm open to new opportunities and project inquiries. Feel free to connect with m
 *This app employs a terminal based UI that allows a user to lookup the current weather of a particular city.A user may also choose a specific map type. Given a valid city name, a map of the city is shown with current weather conditions*
 
 [![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
+
+<small> Attributions
+* Treasure Icon, Pixel Buddha Premium Circular, from Freepik.com 
+* Cargo boat Icon, from Freepik.com
+* Medical robot Icon, Flaticons.com, from Freepik.com
