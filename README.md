@@ -40,24 +40,24 @@ I'm open to new opportunities and project inquiries. Feel free to connect with m
 
 ### Exercise Tracking App ([Link to Repo](https://github.com/voyagerfan/Exercise-Tracking-App.git))
 
-*This exercise tracking app is a full stack MERN application. It allows a user to input exercise data for tracking.*
+*This exercise tracking app is a full stack MERN application. It allows a user to input exercise data to log their activities.*
 
 [![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
 
 ### Arithemitc Expression Evaluator ([Link to Repo](https://github.com/voyagerfan/Arithmetic-Expression-Evaluator.git))
 
-*A description of project 1, its functionalities, and the technologies used.*
+*The evaluator takes expression input from a user and and transforms it from infix to postfix then final evaluation.*
 
 [![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
 
 ### Extending the Random Class ([Link to Repo](https://github.com/voyagerfan/Extending-the-Random-Class.git))
 
-*This project .... .*
+*This project extends the Java random class by adding additional functions. It includes a terminal based UI which allows a user to test the extended functions.*
 
 [![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
 
 ### Weather API ([Link to Repo](https://github.com/voyagerfan/Weather-API.git))
 
-*A description of project 1, its functionalities, and the technologies used.*
+*This app employs a terminal based UI that allows a user to lookup the current weather of a particular city.A user may also choose a specific map type. Given a valid city name, a map of the city is shown with current weather conditions*
 
 [![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
