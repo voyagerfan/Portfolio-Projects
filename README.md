@@ -8,7 +8,7 @@ I'm open to new opportunities and project inquiries. Feel free to connect with m
 
 ## Skills and Technologies
 
-* Programming Languages: Python, Java, Kotlin, JavaScript (React), CSS, HTML
+* Programming Languages: Python, Java, Kotlin, JavaScript (React), CSS, HTML, MySQL
 * Frameworks: Flask, Spring, Node.js (Express), JUnit, Unittest, Jetpack Compose
 * Other Skills: Git, Version Control, etc.
 
@@ -39,35 +39,42 @@ I'm open to new opportunities and project inquiries. Feel free to connect with m
 
 ### Hashmap Implementation ([Link to Repo](https://github.com/voyagerfan/Hashmap-Implementation.git))
 
-*This hashmap implementation utilizes a linked list and dynamic array to create various functions for the hashmap class. There are 2 hashmap classes where one uses open addressing and the other uses separate chaining or collision handling*
+![](./Icons/hashtag.png)
 
-[![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
+*This hashmap implementation utilizes a linked list and dynamic array to create various functions for the hashmap class. There are 2 hashmap classes where one uses open addressing and the other uses separate chaining or collision handling*
 
 ### Exercise Tracking App ([Link to Repo](https://github.com/voyagerfan/Exercise-Tracking-App.git))
 
-*This exercise tracking app is a full stack MERN application. It allows a user to input exercise data to log their activities.*
+![](./Icons/exercise.png)
 
-[![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
+*This exercise tracking app is a full stack MERN application. It allows a user to input exercise data to log their activities.*
 
 ### Arithemitc Expression Evaluator ([Link to Repo](https://github.com/voyagerfan/Arithmetic-Expression-Evaluator.git))
 
-*The evaluator takes expression input from a user and and transforms it from infix to postfix then final evaluation.*
+![](./Icons/calculator.png)
 
-[![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
+*The evaluator takes expression input from a user and and transforms it from infix to postfix then final evaluation.*
 
 ### Extending the Random Class ([Link to Repo](https://github.com/voyagerfan/Extending-the-Random-Class.git))
 
-*This project extends the Java random class by adding additional functions. It includes a terminal based UI which allows a user to test the extended functions.*
+![](./Icons/random.png)
 
-[![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
+*This project extends the Java random class by adding additional functions. It includes a terminal based UI which allows a user to test the extended functions.*
 
 ### Weather API ([Link to Repo](https://github.com/voyagerfan/Weather-API.git))
 
+![](./Icons/weather.png)
+
 *This app employs a terminal based UI that allows a user to lookup the current weather of a particular city.A user may also choose a specific map type. Given a valid city name, a map of the city is shown with current weather conditions*
 
-[![Image description](URL_of_image1)] (Optional: Screenshot or GIF)
 
-<small> Attributions
+
+<small> Attributions - for full links see ./Icon/Refernces.pdf 
 * Treasure Icon, Pixel Buddha Premium Circular, from Freepik.com 
 * Cargo boat Icon, from Freepik.com
 * Medical robot Icon, Flaticons.com, from Freepik.com
+* Hashtag key Icon, Juicy Fish Lineal Color, from Freepik.com
+* Exercise Icon, Basic Accent Lineal Color, from Freekpik.com
+* Calcuator Icon, By Vector Stall, from Freepik.com
+* Random Icon, by Creatype, from Freepik.com
+* Weahter Icon, by cahnggunung, from Freepik.com
