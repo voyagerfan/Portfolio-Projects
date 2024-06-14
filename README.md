@@ -1,4 +1,3 @@
-Markdown
 ## Lamar Petty - Project Portfolio
 
 ## About Me
