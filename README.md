@@ -14,10 +14,12 @@ I'm a passionate problem solver transitioning from the life sciences to software
 
 ## Project Experience
 
-### [Senior Capstone Group Project - AI for Political Predictions]()
+### Senior Capstone Group Project - AI for Political Predictions
 ![](./Icons/ai.png)
 
 *This capstone project explored the use of AI to predict politician attributes and political donor contribution levels. By leveraging machine learning models trained on political candidates and donor data across two AI platforms (Lumina AI and Google Vertex AI), the project aimed to comparatively analyze model perfomance metrics and prediction results.*
+
+**Please see resume link for project documenation**
 
 ### [Treasure Hunt](https://github.com/voyagerfan/Treasure-Hunt.git)
 ![](./Icons/treasure.png)
