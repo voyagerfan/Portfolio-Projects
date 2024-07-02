@@ -111,14 +111,25 @@ I'm a passionate problem solver transitioning from the life sciences to software
 
 ![](./Icons/calculator.png)
 
-*This interactive program prompts users to enter mathematical expressions. It then efficiently converts the expressions from infix notation to postfix notation  and performs the final evaluation.*
+*This interactive program prompts users to enter mathematical expressions. Using a stack, it efficiently converts the expressions from infix notation to postfix notation  and performs the final evaluation.*
+
+* <u>Technologies</u> : Java, Eclipse
+* Accurately converts infix expressions containing operators (+, -, *, /) to postfix notation for efficient evaluation.
+* Ensures proper parenthesis usage by identifying and reporting missing parentheses with their position in the expression.
+* Employs a customized prompt to guide the user for valid input and offers an indefinite loop for continuous evaluation until an exit command is provided.
+* Leverages a well-structured design for maintainability and clarity.
+* Utilizes Maven for efficient project management and dependency handling.
 
 ### [Extending the Random Class](https://github.com/voyagerfan/Extending-the-Random-Class.git)
 
 ![](./Icons/random.png)
 
-*This project extends the Java random class by adding additional functions. It includes a terminal based UI which allows a user to test the extended functions.*
+*This project extends the Java Random class by adding additional functions. It includes a terminal based UI for testing.*
 
+* <u>Technologies</u>: Java, Eclipse
+* Implements nextInt(int low, int high), nextIntDigit(int digits), various nextChar() methods for generating random integers, characters, and special characters. These functions provide developers with more control over random number/char generation.
+* Includes interactive terminal UI testing of the extended Random class functions. Users can easily experiment with different parameters and observe the generated values.
+* Utilizes Maven for efficient project management and dependency handling.
 ---
 
 <small> Attributions - for full links see ./Icon/Refernces.pdf 
